@@ -128,12 +128,5 @@ So how does data flow between these components? Take a look at this diagram:
 #### Feel Free To Contribute
 Pull request are most welcomed, Add proper documentation to the part you contribute, Give me some time to review pull request Thank you.
 #### Developed And Maintained by
-😎<a href="https://github.com/Debanshu777">Debanshu777</a>
+😎<a href="Dax Pate"></a>
 <br>
-
-## License
-This project is licensed under the MIT License - see the <a href="https://github.com/Debanshu777/Recipe_App/blob/master/LICENSE">LICENSE.md</a> file for details
-<br>
-
-## Getting Started
-To get started read the Android developers <a href="https://developer.android.com/">documentation</a>

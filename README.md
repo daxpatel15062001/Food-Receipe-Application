@@ -128,5 +128,5 @@ So how does data flow between these components? Take a look at this diagram:
 #### Feel Free To Contribute
 Pull request are most welcomed, Add proper documentation to the part you contribute, Give me some time to review pull request Thank you.
 #### Developed And Maintained by
-😎<a href="Dax Pate"></a>
+😎<a href="https://github.com/daxpatel15062001"></a>
 <br>
